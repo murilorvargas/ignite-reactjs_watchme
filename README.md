@@ -35,7 +35,7 @@ The following tools were used in this project:
 
 ## 💻 Project
 
-Simple movie and series showcase website, separated by categories, showing their grades and duration.
+Simple movie showcase website, separated by categories, showing their grades and duration.
 
 ## 🏁 Starting
 
